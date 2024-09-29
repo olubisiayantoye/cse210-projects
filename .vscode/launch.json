@@ -2,11 +2,17 @@
 {
     "version": "0.2.0",
     "configurations": [
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+
 
         {
             "name": "Sandbox Project",
             "type": "coreclr",
-            "request": "launch",
+            "request": "launch",  // Change from "attach" to "launch"
             "preLaunchTask": "build-sandbox-Sandbox",
             "program": "${workspaceFolder}/sandbox/Sandbox/bin/Debug/net8.0/Sandbox.dll",
             "args": [],
@@ -15,6 +21,7 @@
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
+        
 
         {
             "name": "C# Prep 1",
@@ -24,7 +31,7 @@
             "program": "${workspaceFolder}/csharp-prep/Prep1/bin/Debug/net8.0/Prep1.dll",
             "args": [],
             "cwd": "${workspaceFolder}/csharp-prep/Prep1",
-            "console": "integratedTerminal",
+            "console": "externalTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
@@ -37,7 +44,7 @@
             "program": "${workspaceFolder}/csharp-prep/Prep2/bin/Debug/net8.0/Prep2.dll",
             "args": [],
             "cwd": "${workspaceFolder}/csharp-prep/Prep2",
-            "console": "integratedTerminal",
+            "console": "externalTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
