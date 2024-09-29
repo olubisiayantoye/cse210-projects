@@ -3,6 +3,10 @@ using System.Collections.Generic;
 
 public class PromptGenerator
 {
+     /* Brigham Young University–Idaho
+         Olubisi Ayantoye
+      Week 02 Develop: Journal Program */
+      
     private List<string> _prompts = new List<string>
     {
         "Who was the most interesting person I interacted with today?",

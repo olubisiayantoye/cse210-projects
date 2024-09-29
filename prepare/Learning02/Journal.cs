@@ -4,6 +4,10 @@ using System.IO;
 
 public class Journal
 {
+     /* Brigham Young University–Idaho
+         Olubisi Ayantoye
+      Week 02 Develop: Journal Program */
+      
     private List<Entry> _entries = new List<Entry>();
 
     // Adds a new entry to the journal

@@ -2,6 +2,9 @@ using System;
 
 public class Entry
 {
+    /* Brigham Young University–Idaho
+         Olubisi Ayantoye
+      Week 02 Develop: Journal Program */
     private string _date;
     private string _promptText;
     private string _entryText;
