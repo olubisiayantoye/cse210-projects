@@ -1,9 +1,18 @@
-using System;
 
-class Program
+using System;
+/*
+ * Program Exceeded Requirements:
+ *
+ * 1. Negative Goals allow users to set goals with negative points to discourage bad habits.
+ * 2. Leveling System rewards users by leveling up every 100 points earned, adding gamification.
+ * 3. Milestone Tracking in Checklist Goals for long-term accomplishments.
+ */
+
+public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        Console.WriteLine("Hello Develop06 World!");
+        GoalManager goalManager = new GoalManager();
+        goalManager.Run();
     }
 }

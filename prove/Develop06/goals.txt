@@ -1,0 +1,20 @@
+SimpleGoal: Run a 5K - Complete a 5-kilometer run - 50 points - Completed: True
+SimpleGoal: Read a Book - Finish reading a book - 30 points - Completed: False
+EternalGoal: Daily Meditation - Meditate for at least 10 minutes daily - 5 points
+EternalGoal: Exercise - 30 minutes of exercise - 10 points
+ChecklistGoal: Gym Sessions - Attend gym 10 times for a bonus - 20 points - Target: 10 - Progress: 6
+ChecklistGoal: Volunteer Hours - Complete 5 hours of volunteering - 15 points - Target: 5 - Progress: 3
+ChecklistGoal: Water Intake - Drink 8 glasses of water daily for 7 days - 5 points - Target: 7 - Progress: 5
+ChecklistGoal: Clean House - Clean the house 3 times this week - 10 points - Target: 3 - Progress: 2
+SimpleGoal: Save Money - Save $500 for an emergency fund - 40 points - Completed: False
+NegativeGoal: Avoid Junk Food - Avoid eating junk food - -5 points
+NegativeGoal: Limit Screen Time - Keep screen time under 2 hours per day - -10 points
+NegativeGoal: Quit Smoking - Deduct points if smoking - -15 points
+SimpleGoal: Learn a New Recipe - Try a new recipe and cook a meal - 20 points - Completed: True
+EternalGoal: Study Scriptures - Spend time reading scriptures daily - 10 points
+ChecklistGoal: Marathon Training - Train for a marathon (20 sessions) - 25 points - Target: 20 - Progress: 12
+ChecklistGoal: Call Family - Call family once per week for 4 weeks - 10 points - Target: 4 - Progress: 2
+EternalGoal: Healthy Eating - Eat at least one healthy meal per day - 5 points
+SimpleGoal: Finish Project - Complete the final project for class - 60 points - Completed: False
+ChecklistGoal: Practice Coding - Code for 1 hour 5 times this week - 15 points - Target: 5 - Progress: 1
+SimpleGoal: Learn Guitar - Learn a new song on the guitar - 25 points - Completed: False
